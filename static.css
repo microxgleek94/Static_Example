@@ -1,0 +1,21 @@
+body{
+    background-color: coral;
+    font-family: fantasy;
+}
+
+h1 {
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+#border {
+    border-left: thick dotted black;
+    border-right: thick dotted black;
+    border-top:solid thin chartreuse;
+    border-bottom: solid thin chartreuse;
+}
+
+p {
+    text-align: center;
+    padding: 20px;
+}
